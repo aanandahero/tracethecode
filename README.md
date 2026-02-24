@@ -1,0 +1,1 @@
+A small vibecoded platform for playing trace the code, where u randomly create a tiesheet, then start giving code on screen then participants write code output physically on paper, the first to give the correct answer advances.
